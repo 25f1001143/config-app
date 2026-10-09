@@ -1,0 +1,5 @@
+port: 8497
+workers: 5
+debug: false
+log_level: debug
+api_key: key-qqwck5gyso
